@@ -23,4 +23,4 @@
 2. Extract anywhere (no install needed)
 3. Launch `Einstenium.exe`
 4. Start Roblox - Click **Attach**
-5. load script or use the buttons I added - **Execute**
+5. load script or use the buttons I added - Click **Execute**
