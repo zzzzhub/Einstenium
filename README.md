@@ -15,7 +15,6 @@
   </a>
   <br>
   <img src="https://img.shields.io/badge/External-True-blue?style=for-the-badge&logo=windows" alt="External">
-  <img src="https://img.shields.io/badge/Byfron-Bypass%20Potential-orange?style=for-the-badge" alt="Byfron Status">
 </p>
 
 <h1 align="center">Einstenium</h1>
