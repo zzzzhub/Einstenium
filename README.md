@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1200x320/0a0a1f/00d4ff?text=Einstenium+-+External+Roblox+Executor" alt="Einstenium Banner" width="90%"/>
   <br><br>
   <a href="https://github.com/dreamszs/Einstenium/stargazers">
     <img src="https://img.shields.io/github/stars/dreamszs/Einstenium?style=for-the-badge&logo=github&color=yellow" alt="Stars">
