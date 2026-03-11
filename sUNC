@@ -1,3 +1,5 @@
+# List of all current documented sUNC funcs that work in Einstenium more coming soon..
+
 
 'getfenv': 'getfenv(level?)',
 'setfenv': 'setfenv(f, t)',
