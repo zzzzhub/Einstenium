@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/last-commit/dreamszs/Einstenium?style=for-the-badge&logo=github&color=purple" alt="Last Commit">
   </a>
   <br>
-  <img src="https://img.shields.io/badge/External-v1.1.1-blue?style=for-the-badge&logo=windows" alt="v1.1.1">
+  <img src="https://img.shields.io/badge/External-v1.1.2-blue?style=for-the-badge&logo=windows" alt="v1.1.2">
   <img src="https://img.shields.io/github/commit-activity/t/dreamszs/Einstenium?style=for-the-badge&logo=github&color=teal" alt="Commit activity">
 </p>
 
