@@ -68,16 +68,13 @@
 'cache.replace': 'cache.replace(old: Instance, new: Instance)\nReplaces cached reference.',
 
 'newcclosure': 'newcclosure(f: function) -> function\nWraps Lua function as C closure.',
-'hookfunction': 'hookfunction(target: function, hook: function) -> function\nHooks function, returns original.',
 'replaceclosure': 'replaceclosure(target: function, hook: function) -> function\nSame as hookfunction.',
-'clonefunction': 'clonefunction(f: function) -> function\nClones function.',
- 'iscclosure': 'iscclosure(f: function) -> boolean\nChecks if function is C closure.',
+'iscclosure': 'iscclosure(f: function) -> boolean\nChecks if function is C closure.',
 'islclosure': 'islclosure(f: function) -> boolean\nChecks if function is Lua closure.',
 'checkcaller': 'checkcaller() -> boolean\nReturns true if called from executor.',
 'getcallingscript': 'getcallingscript() -> LocalScript | ModuleScript | nil\nReturns calling script.',
 
 'getrawmetatable': 'getrawmetatable(t) -> table?\nGets metatable bypassing __metatable.',
-'setrawmetatable': 'setrawmetatable(t, mt) -> table\nSets metatable bypassing protection.',
 'setreadonly': 'setreadonly(t: table, readonly: boolean)\nSets table readonly status.',
 'isreadonly': 'isreadonly(t: table) -> boolean\nChecks if table is readonly.',
 'hookmetamethod': 'hookmetamethod(obj, method: string, hook: function) -> function\nHooks metamethod, returns original.',
@@ -87,7 +84,6 @@
 'readfile': 'readfile(path: string) -> string\nReads file from workspace folder.',
 'writefile': 'writefile(path: string, content: string)\nWrites file to workspace folder.',
 'appendfile': 'appendfile(path: string, content: string)\nAppends to file.',
-'loadfile': 'loadfile(path: string) -> function?, string?\nLoads Lua file.',
 'listfiles': 'listfiles(path?: string) -> table\nLists files in directory.',
 'isfile': 'isfile(path: string) -> boolean\nChecks if path is file.',
 'isfolder': 'isfolder(path: string) -> boolean\nChecks if path is folder.',
@@ -150,4 +146,3 @@
 
 'queue_on_teleport': 'queue_on_teleport(script: string)\nQueues script to run after teleport.',
 'queueonteleport': 'queueonteleport(script: string)\nSame as queue_on_teleport.',
-'getscriptfromthread': 'getscriptfromthread(thread: thread) -> LocalScript, ModuleScript, nil\nGets script from thread.'
