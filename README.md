@@ -3,8 +3,8 @@
   <a href="https://github.com/dreamszs/Einstenium/stargazers">
     <img src="https://img.shields.io/github/stars/dreamszs/Einstenium?style=for-the-badge&logo=github&color=yellow" alt="Stars">
   </a>
-  <a href="https://github.com/dreamszs/Einstenium/releases">
-    <img src="https://img.shields.io/github/v/release/dreamszs/Einstenium?style=for-the-badge&logo=github&color=00ff9d" alt="Release">
+  <a href="https://github.com/zzzzhub/Einstenium/releases">
+    <img src="https://img.shields.io/github/v/release/zzzzhub/Einstenium?style=for-the-badge&logo=github&color=00ff9d" alt="Release">
   </a>
   <a href="https://github.com/dreamszs/Einstenium/commits/main">
     <img src="https://img.shields.io/github/last-commit/dreamszs/Einstenium?style=for-the-badge&logo=github&color=purple" alt="Last Commit">
