@@ -17,6 +17,8 @@
 <h1 align="center">Einstenium</h1>
 <h3 align="center">External Keyless Roblox Executor</h3>
 
+<img width="1212" height="920" alt="einsteinium" src="https://github.com/user-attachments/assets/2fefb5d3-caab-4c68-a1d2-766c201c192f" />
+
 ### Quick Start For Noobs
 
 1. Download latest **portable .zip** from [Releases](https://github.com/YOUR_USERNAME/Einstenium/releases)
