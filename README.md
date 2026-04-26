@@ -1,17 +1,17 @@
 <p align="center">
   <br><br>
   <a href="https://github.com/dreamszs/Einstenium/stargazers">
-    <img src="https://img.shields.io/github/stars/dreamszs/Einstenium?style=for-the-badge&logo=github&color=yellow" alt="Stars">
+    <img src="https://img.shields.io/github/stars/dreamszs/Einstenium?style=for-the-badge&logo=github&color=white" alt="Stars">
   </a>
   <a href="https://github.com/zzzzhub/Einstenium/releases">
-    <img src="https://img.shields.io/github/v/release/zzzzhub/Einstenium?style=for-the-badge&logo=github&color=00ff9d" alt="Release">
+    <img src="https://img.shields.io/github/v/release/zzzzhub/Einstenium?style=for-the-badge&logo=github&color=black" alt="Release">
   </a>
   <a href="https://github.com/dreamszs/Einstenium/commits/main">
-    <img src="https://img.shields.io/github/last-commit/dreamszs/Einstenium?style=for-the-badge&logo=github&color=purple" alt="Last Commit">
+    <img src="https://img.shields.io/github/last-commit/dreamszs/Einstenium?style=for-the-badge&logo=github&color=white" alt="Last Commit">
   </a>
   <br>
-  <img src="https://img.shields.io/badge/External-v1.1.4-blue?style=for-the-badge&logo=windows" alt="v1.1.4">
-  <img src="https://img.shields.io/github/commit-activity/t/dreamszs/Einstenium?style=for-the-badge&logo=github&color=teal" alt="Commit activity">
+  <img src="https://img.shields.io/badge/External-v1.1.4-white?style=for-the-badge&logo=windows" alt="v1.1.4">
+  <img src="https://img.shields.io/github/commit-activity/t/dreamszs/Einstenium?style=for-the-badge&logo=github&color=black" alt="Commit activity">
 </p>
 
 <h1 align="center">Einstenium</h1>
