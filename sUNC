@@ -92,32 +92,12 @@
 'delfile': 'delfile(path: string)\nDeletes file.',
 'dofile': 'dofile(path: string) -> any...\nExecutes Lua file.',
 
-'debug.getinfo': 'debug.getinfo(f: function | number, what?: string) -> table\nGets function info (source, name, nups, etc).',
-'debug.getconstants': 'debug.getconstants(f: function) -> table\nGets function constants.',
-'debug.getconstant': 'debug.getconstant(f: function, index: number) -> any\nGets constant at index.',
-'debug.setconstant': 'debug.setconstant(f: function, index: number, value: any)\nSets constant at index.',
-'debug.getupvalues': 'debug.getupvalues(f: function) -> table\nGets function upvalues.',
-'debug.getupvalue': 'debug.getupvalue(f: function, index: number) -> any\nGets upvalue at index.',
-'debug.setupvalue': 'debug.setupvalue(f: function, index: number, value: any)\nSets upvalue at index.',
-'debug.getstack': 'debug.getstack(level: number, index?: number) -> any | table\nGets stack values at level.',
-'debug.setstack': 'debug.setstack(level: number, index: number, value: any)\nSets stack value.',
-'debug.getprotos': 'debug.getprotos(f: function) -> table\nGets nested function prototypes.',
-'debug.getproto': 'debug.getproto(f: function, index: number, activated?: boolean) -> function | table\nGets proto at index.',
-
-'lz4compress': 'lz4compress(data: string) -> string\nCompresses data with LZ4.',
 'lz4decompress': 'lz4decompress(data: string, size: number) -> string\nDecompresses LZ4 data.',
 
 'WebSocket.connect': 'WebSocket.connect(url: string) -> WebSocket\nConnects to WebSocket server.\n\nMethods: Send(msg), Close()\nEvents: OnMessage, OnClose',
 
-'gethiddenproperty': 'gethiddenproperty(instance: Instance, property: string) -> any, boolean\nGets hidden property value.',
-'sethiddenproperty': 'sethiddenproperty(instance: Instance, property: string, value: any) -> boolean\nSets hidden property value.',
-'gethui': 'gethui() -> Folder\nGets hidden UI container (CoreGui alternative).',
-'isnetworkowner': 'isnetworkowner(part: BasePart) -> boolean\nChecks if local player owns the part.',
-
 'getconnections': 'getconnections(signal: RBXScriptSignal) -> table\nGets signal connections.\n\nConnection methods: Disable(), Enable(), Fire(...)',
 'firesignal': 'firesignal(signal: RBXScriptSignal, ...)\nFires all signal connections.',
-'fireclickdetector': 'fireclickdetector(detector: ClickDetector, distance?: number, type?: string)\nFires ClickDetector. Type: MouseClick, RightMouseClick, MouseHoverEnter, MouseHoverLeave.',
-'fireproximityprompt': 'fireproximityprompt(prompt: ProximityPrompt)\nTriggers ProximityPrompt.',
 'firetouchinterest': 'firetouchinterest(part: BasePart, toTouch: BasePart, toggle: number)\nFires touch. Toggle: 0=end, 1=begin.',
 
 'getinstances': 'getinstances() -> table\nGets all instances in memory.',
@@ -128,9 +108,9 @@
 'getgc': 'getgc(includeTables?: boolean) -> table\nGets garbage collector objects.',
 'filtergc': 'filtergc(type: string, options: table) -> table\nFilters GC objects. Type: function, table.',
 
-'getscriptbytecode': 'getscriptbytecode(script: LocalScript | ModuleScript) -> string\nGets compiled bytecode.',
-'getscripthash': 'getscripthash(script: LocalScript | ModuleScript) -> string\nGets script hash.',
-'decompile': 'decompile(script: LocalScript | ModuleScript) -> string\nDecompiles script (stub - not implemented).',
+'getscriptbytecode': 'getscriptbytecode(script: LocalScript | ModuleScript) -> string\nGets compiled bytecode.', (in development still done next update)
+'getscripthash': 'getscripthash(script: LocalScript | ModuleScript) -> string\nGets script hash.', (in development still done next update)
+'decompile': 'decompile(script: LocalScript | ModuleScript) -> string\nDecompiles script (stub - not implemented).', (in development still done next update)
 
 'rconsoleprint': 'rconsoleprint(text: string)\nPrints to external console.',
 'rconsolewarn': 'rconsolewarn(text: string)\nWarns to external console.',
