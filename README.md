@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/last-commit/dreamszs/Einstenium?style=for-the-badge&logo=github&color=white" alt="Last Commit">
   </a>
   <br>
-  <img src="https://img.shields.io/badge/External-v1.1.4-white?style=for-the-badge&logo=windows" alt="v1.1.4">
+  <img src="https://img.shields.io/badge/External-v1.1.5-white?style=for-the-badge&logo=windows" alt="v1.1.5">
   <img src="https://img.shields.io/github/commit-activity/t/dreamszs/Einstenium?style=for-the-badge&logo=github&color=black" alt="Commit activity">
 </p>
 
@@ -31,5 +31,5 @@
 
 > The Executor is connected to [Offsets](https://github.com/NtReadVirtualMemory/Roblox-Offsets-Website/blob/main/offsets.hpp) which means it auto updates when this auto updates.
 > 
-> The Executor is currently at 89% UNC and 40% sUNC
+> The Executor is currently at 86% UNC and 30% sUNC
 
