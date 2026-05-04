@@ -24,7 +24,7 @@
 1. Download latest **portable .zip** from [Releases](https://github.com/YOUR_USERNAME/Einstenium/releases)
 2. Extract anywhere (no install needed)
 3. Launch `Einstenium.exe`
-4. Start Roblox - Click **Attach**
+4. Start Roblox - Click the **WHITE Attach BUTTON**
 5. load script or use the buttons I added - Click **Execute**
 
 ### Extra Information
